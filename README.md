@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=✨%20Welcome%20to%20Ayesha's%20Digital%20Universe%20✨&fontSize=22&fontY=75&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=✨%20Where%20Data%20Meets%20Magic%20✨&fontSize=22&fontY=75&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 <table border="0">
   <tr>
     <td width="35%" align="center">
-      <!-- Using your custom Chibi/Pixel Art Analyst Avatar -->
-      <img src="[Insert Path or Link to your Chibi Art Image, e.g., images/chibi.png]" width="240px" alt="Ayesha Chibi Avatar"/>
+      <!-- Your Custom Chibi / Pixel Art Avatar -->
+      <img src="[Insert Path or Link to Chibi Image]" width="240px" alt="Ayesha Chibi Avatar"/>
     </td>
     <td width="65%">
       <h3>Hello, Traveler! I'm Ayesha Debnath</h3>
@@ -53,16 +53,60 @@
 
 ---
 
-## 📜 Quest Log (Featured Projects & Analytics)
+## 🚀 My Projects
 
-| Project Artifact | Tech Stack & Core Focus | Description & Impact | Realm Links |
-| :--- | :--- | :--- | :--- |
-| **Peach Leaf Disease Detection** | TensorFlow, Keras, CNN, OpenCV | Custom vision model classifying peach foliage into healthy vs. unhealthy states (~97% accuracy). | [GitHub Repo](https://github.com/Hi-Aish/CodeAlpha_Leaf_Disease_Detection) |
-| **Ad Click Attribution & Fraud** | Python, Scikit-Learn, Pandas | Machine learning pipeline analyzing 2.3M+ interaction logs with temporal feature engineering. | [GitHub Repo]([Insert Link]) |
-| **Apple Stock Price Prediction** | TensorFlow, LSTM, yfinance | Time-series deep learning forecasting model utilizing Stacked LSTMs for future price projections. | [GitHub Repo]([Insert Link]) |
-| **Project Atlas** | Power BI, SaaS UI/UX | 10-second executive summary dashboard tracking revenue health, product performance, and customer segmentation. | [Dashboard Preview]([Insert Link]) |
-| **Project Nexus** | Streamlit, LangChain, Groq | Ultra-fast RAG web application for secure, zero-hallucination document intelligence over PDF reports. | [GitHub Repo](https://github.com/Hi-Aish/Project-Nexus-AI-Document-Intelligence) |
-| **Project Titan** | Python, Fintech Terminal UI | Institutional-grade financial dashboard bridging decentralized crypto alpha with traditional equity benchmarks. | [Dashboard Preview]([Insert Link]) |
+<p align="center"><i>A collection of projects I've worked on, ranging from data pipelines to web applications and everything in between.</i></p>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="[Insert Banner/Image URL]" width="100%" alt="Project Preview"/><br>
+      <h3>Peach Leaf Detection</h3>
+      <p>Custom CNN built on PlantVillage data to classify peach foliage into healthy vs. unhealthy states (~97% accuracy).</p>
+      <p><code>TensorFlow</code> <code>Keras</code> <code>OpenCV</code></p>
+      <a href="https://github.com/Hi-Aish/CodeAlpha_Leaf_Disease_Detection">🔗 View Details</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="[Insert Banner/Image URL]" width="100%" alt="Project Preview"/><br>
+      <h3>Ad Click Fraud</h3>
+      <p>Machine learning pipeline analyzing 2.3M+ interaction logs with temporal feature engineering.</p>
+      <p><code>Python</code> <code>Scikit-Learn</code> <code>Pandas</code></p>
+      <a href="[Insert Link]">🔗 View Details</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="[Insert Banner/Image URL]" width="100%" alt="Project Preview"/><br>
+      <h3>Apple Stock Predictor</h3>
+      <p>Time-series deep learning forecasting model utilizing Stacked LSTMs for future price projections.</p>
+      <p><code>TensorFlow</code> <code>LSTM</code> <code>yfinance</code></p>
+      <a href="[Insert Link]">🔗 View Details</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="[Insert Banner/Image URL]" width="100%" alt="Project Preview"/><br>
+      <h3>Project Atlas</h3>
+      <p>Enterprise Power BI dashboard providing a 10-second executive summary of revenue and product performance.</p>
+      <p><code>Power BI</code> <code>SaaS UI/UX</code></p>
+      <a href="[Insert Link]">🔗 View Details</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="[Insert Banner/Image URL]" width="100%" alt="Project Preview"/><br>
+      <h3>Project Nexus</h3>
+      <p>Ultra-fast RAG web app enabling secure, zero-hallucination interactive chat over PDF reports.</p>
+      <p><code>Streamlit</code> <code>LangChain</code> <code>Groq</code></p>
+      <a href="https://github.com/Hi-Aish/Project-Nexus-AI-Document-Intelligence">🔗 View Details</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="[Insert Banner/Image URL]" width="100%" alt="Project Preview"/><br>
+      <h3>Project Titan</h3>
+      <p>Institutional-grade financial analytics dashboard bridging crypto alpha with traditional equity benchmarks.</p>
+      <p><code>Python</code> <code>Fintech UI</code></p>
+      <a href="[Insert Link]">🔗 View Details</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
