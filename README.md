@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:hi.aish.design@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/Hi-Aish"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -15,8 +15,8 @@
 <table border="0">
   <tr>
     <td width="35%" align="center">
-      <!-- Insert your favorite chibi/pixel art avatar image here -->
-      <img src="[Insert Path to Chibi/Pixel Art Image]" width="220px" alt="Ayesha Chibi Avatar"/>
+      <!-- Using your custom Chibi/Pixel Art Analyst Avatar -->
+      <img src="[Insert Path or Link to your Chibi Art Image, e.g., images/chibi.png]" width="240px" alt="Ayesha Chibi Avatar"/>
     </td>
     <td width="65%">
       <h3>Hello, Traveler! I'm Ayesha Debnath</h3>
@@ -53,13 +53,16 @@
 
 ---
 
-## 📜 Quest Log (Featured Projects)
+## 📜 Quest Log (Featured Projects & Analytics)
 
-| Artifact / Project | Tech Stack | Description | Realm Links |
+| Project Artifact | Tech Stack & Core Focus | Description & Impact | Realm Links |
 | :--- | :--- | :--- | :--- |
 | **Peach Leaf Disease Detection** | TensorFlow, Keras, CNN, OpenCV | Custom vision model classifying peach foliage into healthy vs. unhealthy states (~97% accuracy). | [GitHub Repo](https://github.com/Hi-Aish/CodeAlpha_Leaf_Disease_Detection) |
 | **Ad Click Attribution & Fraud** | Python, Scikit-Learn, Pandas | Machine learning pipeline analyzing 2.3M+ interaction logs with temporal feature engineering. | [GitHub Repo]([Insert Link]) |
 | **Apple Stock Price Prediction** | TensorFlow, LSTM, yfinance | Time-series deep learning forecasting model utilizing Stacked LSTMs for future price projections. | [GitHub Repo]([Insert Link]) |
+| **Project Atlas** | Power BI, SaaS UI/UX | 10-second executive summary dashboard tracking revenue health, product performance, and customer segmentation. | [Dashboard Preview]([Insert Link]) |
+| **Project Nexus** | Streamlit, LangChain, Groq | Ultra-fast RAG web application for secure, zero-hallucination document intelligence over PDF reports. | [GitHub Repo](https://github.com/Hi-Aish/Project-Nexus-AI-Document-Intelligence) |
+| **Project Titan** | Python, Fintech Terminal UI | Institutional-grade financial dashboard bridging decentralized crypto alpha with traditional equity benchmarks. | [Dashboard Preview]([Insert Link]) |
 
 ---
 
@@ -84,7 +87,7 @@
 
 ## 🦉 Send a Message via Owl (Or Email)
 
-* **Email:** hi.aish.design@gmail.com / [your-email@gmail.com]
+* **Email:** hi.aish.design@gmail.com
 * **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/)
 * **Behance Sanctuary:** [behance.net/hi-aish](https://behance.net)
 
